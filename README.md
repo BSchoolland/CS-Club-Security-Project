@@ -7,7 +7,6 @@ Welcome to the Web Security Project! This project is designed for members of the
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Features](#features)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Prerequisites
