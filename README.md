@@ -58,4 +58,4 @@ git push origin feature/fix-vulnerability
 5. Create a pull request explaining your changes and the security vulnerability you've fixed.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.md).
