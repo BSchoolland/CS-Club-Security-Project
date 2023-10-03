@@ -41,21 +41,5 @@ node server.js
 - **Send Messages:** Users can send messages to the chat room.
 - **View Messages:** Users can view messages sent to the chat room.
 
-## Contributing
-Contributions to identify and fix security vulnerabilities in this project are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch for your changes:
-git checkout -b feature/fix-vulnerability
-
-3. Make your changes and commit them:
-git commit -m "Fix security vulnerability"
-
-4. Push your changes to your forked repository:
-git push origin feature/fix-vulnerability
-
-
-5. Create a pull request explaining your changes and the security vulnerability you've fixed.
-
 ## License
 This project is licensed under the [MIT License](LICENSE.md).
